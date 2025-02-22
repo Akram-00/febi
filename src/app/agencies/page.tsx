@@ -1,9 +1,9 @@
+import Agencies from '@/components/agencies/Agencies'
 import React from 'react'
-import Home from '@/components/home/Home'
 
 const page = () => {
   return (
-    <Home />
+    <Agencies />
   )
 }
 
